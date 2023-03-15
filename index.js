@@ -7,7 +7,7 @@ let num2 = 31;
 let multiply = num1 * num2;
 
 // create a random integer greater than 0, and assign it to random
-let random = Math.ceil(Math.random() * 100);
+let random = Math.floor(Math.random() * 100);
 
 let num3 = 15;
 let num4 = 11;
